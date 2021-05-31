@@ -1,0 +1,23 @@
+body {
+    background-color: lightskyblue;
+    color: rgb(12, 245, 12);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+
+}
+
+#camara {
+    border: 2px solid grey;
+    width: 450px;
+    height: 450px;
+}
+
+.objectes,
+#object,
+#accuracy {
+    color: indigo;
+
+}
